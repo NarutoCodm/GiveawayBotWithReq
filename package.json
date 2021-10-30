@@ -1,7 +1,7 @@
 {
   "name": "impostor-giveaway",
   "version": "1.0.0",
-  "description": "a discord giveaway bot by ImPoStoR#8011",
+  "description": "a discord giveaway bot by Narutocodm",
   "main": "index.js",
   "dependencies": {
     "config.json": "0.0.4",
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sujalgoel/impostor-giveaway.git"
+    "url": "https://github.com/NarutoCodm/GiveawayBotWithReq.git"
   },
   "author": "sujalgoel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sujalgoel/impostor-giveaway/issues"
+    "url": "https://github.com/NarutoCodm/GiveawayBotWithReq/issues"
   },
-  "homepage": "https://github.com/sujalgoel/impostor-giveaway#readme"
+  "homepage": "https://github.com/NarutoCodm/GiveawayBotWithReq/blob/main/README.md"
 }
